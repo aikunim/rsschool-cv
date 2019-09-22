@@ -1,4 +1,4 @@
-Dawn Johnson
+# Dawn Johnson
 Sometown, OH 43085
 Home: 555-555-5555 | dj@somedomain.com | BeFound Profile
 @twitterhandle | LinkedIn | Portfolio Link
@@ -10,14 +10,15 @@ Skilled at writing well-designed, testable and efficient code using current best
 Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 Technical Toolbox
 
-Web Tools: JavaScript, jQuery, CSS, PHP, HTML, XHTML, XML, AngularJS, Bootstrap, Java, .Net, ASP.NET, Python, MySQL, GitHub, Apache Flex, JavaFX, REST, SOAP, cPanel, Google Analytics, WordPress
+### Web Tools: 
+JavaScript, jQuery, CSS, PHP, HTML, XHTML, XML, AngularJS, Bootstrap, Java, .Net, ASP.NET, Python, MySQL, GitHub, Apache Flex, JavaFX, REST, SOAP, cPanel, Google Analytics, WordPress
 Adobe Creative Cloud: Photoshop, Lightroom, Illustrator, InDesign, Experience Design, Premiere Pro, After Effects, Animate, Dreamweaver, Fuse, Adobe Muse, Acrobat Pro DC
 
-Education
+### Education
 ABC UNIVERSITY -- Sometown, OH
 BS, Information Technology, Concentration in Web Site Development, degree in progress
 
-Courses:
+### Courses:
 Web & Multimedia Development
 Digital & Interactive Design
 Graphic & GUI Design
@@ -28,7 +29,8 @@ Internet Technologies
 Compression Formats
 Audio/Video Editing
 System Security
-Web Development Experience
+
+### Web Development Experience
 
 ABC CHARITY, Sometown Chapter -- Sometown, OH
 Web Developer, 2015 to Present (summers)

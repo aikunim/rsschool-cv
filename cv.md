@@ -1,7 +1,7 @@
 # Dawn Johnson
 Sometown, OH 43085
 Home: 555-555-5555 | dj@somedomain.com | 
-[![Twitter](https://aikunim.github.io/rsschool-cv/twitter.svg)](https://twitter.com/realdonaldtrump) | [![LinkedIn](https://aikunim.github.io/rsschool-cv/linkedin.svg)](https://twitter.com/realdonaldtrump) | [Portfolio Link](https://aikunim.github.io/rsschool-cv/cv)
+[Twitter](https://twitter.com/realdonaldtrump) | [LinkedIn](https://twitter.com/realdonaldtrump) | [Portfolio Link](https://aikunim.github.io/rsschool-cv/cv)
 
 ## Web Developer
 

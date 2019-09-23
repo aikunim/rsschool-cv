@@ -25,14 +25,39 @@ h2 {
     margin: 0 auto;
 }
 
-.author-box {
+.author {
     padding-top: 20px;
+}
+.author-name {
+    width: 90%;
+    float: left;
+    top: 5px;
+    
+}
+
+.author-box {
+    width: 10%;
+    float: left;
     border-top: 1px solid #808080;
+
 }
 
 .author-box img {
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    float: left;
+    right: 0;
 }
+
+section {
+    padding-top: 20px; 
+}
+
+.course-list{
+    padding: 5px 50px;
+}
+
+.course-list li{
+    padding-left: 5px;;
+}
+
